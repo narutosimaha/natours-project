@@ -4,9 +4,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="img/logo-green-1x.png" alt="Logo" height="80">
-  </a>
+  
+    <img src="stater/public/img/logo-green.png" alt="Logo" height="80">
+ 
 
   <h3 align="center">Natour Homepage</h3>
 
