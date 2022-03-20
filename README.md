@@ -28,7 +28,7 @@ Some security methods for webapp development is also implemented in this app to 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## UX-UI
-Homepage: Red version of natour homepage is deployed at this [link](https://github.com/narutosimaha/natour-homepage.git).
+###### Homepage: Red version of natour homepage is deployed at this [link](https://github.com/narutosimaha/natour-homepage.git).
 
 ###### Login form:
 ![image](https://user-images.githubusercontent.com/82920386/159170832-47fc6668-7234-4f42-b348-eabea1463494.png)
