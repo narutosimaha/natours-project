@@ -55,7 +55,7 @@ Homepage: Red version of natour homepage is deployed at this [link](https://gith
 
 
 
-###### Payment page:
+###### Payment page: Is building
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
