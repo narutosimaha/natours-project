@@ -7,7 +7,7 @@
   
   <img src="https://natours.netlify.app/img/logo-green-2x.png" alt="Logo" height="80">
 
-  <h3 align="center">Natour Homepage</h3>
+  <h3 align="center">Natour app</h3>
 
   
 </div>
