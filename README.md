@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   
-    <img src="stater/public/img/logo-green.png" alt="Logo" height="80">
+    <img src="starter/public/img/logo-green.png" alt="Logo" height="80">
  
 
   <h3 align="center">Natour Homepage</h3>
@@ -35,8 +35,12 @@ Login form:
 ![image](https://user-images.githubusercontent.com/82920386/159170832-47fc6668-7234-4f42-b348-eabea1463494.png)
 
 
+
+
 Tours page:
 ![image](https://user-images.githubusercontent.com/82920386/159170892-b25059a1-e244-4929-b643-34d3808d1534.png)
+
+
 
 Specific tour details page:
 ![image](https://user-images.githubusercontent.com/82920386/159170922-96d43db0-77cc-4fc7-ade3-be4113ebc16c.png)
@@ -45,8 +49,12 @@ Specific tour details page:
   + Stopovers of specific tour near the customer address:
     ![image](https://user-images.githubusercontent.com/82920386/159171022-18cc3991-4b9d-48ab-bd30-dfcc7182a647.png)
 
+
+
 User information page:
 ![image](https://user-images.githubusercontent.com/82920386/159171095-c73eb925-55ee-40cd-96d4-059fdff4a04f.png)
+
+
 
 Payment page:
 
