@@ -63,8 +63,8 @@ Homepage: Red version of natour homepage is deployed at this [link](https://gith
 
 What I used to build this app:
 * HTML/CSS, Vanila Javascript.
-* [NodeJs/Express.]
-* [MongoDB/Mongoose]
+* NodeJs/Express.
+* MongoDB/Mongoose
 * [Pug](https://pugjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
