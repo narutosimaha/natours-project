@@ -30,18 +30,18 @@ Some security methods for webapp development is also implemented in this app to 
 ## UX-UI
 Homepage: Red version of natour homepage is deployed at this [link](https://github.com/narutosimaha/natour-homepage.git).
 
-Login form:
+###### Login form:
 ![image](https://user-images.githubusercontent.com/82920386/159170832-47fc6668-7234-4f42-b348-eabea1463494.png)
 
 
 
 
-Tours page:
+###### Tours page:
 ![image](https://user-images.githubusercontent.com/82920386/159170892-b25059a1-e244-4929-b643-34d3808d1534.png)
 
 
 
-Specific tour details page:
+###### Specific tour details page:
 ![image](https://user-images.githubusercontent.com/82920386/159170922-96d43db0-77cc-4fc7-ade3-be4113ebc16c.png)
 ![image](https://user-images.githubusercontent.com/82920386/159170930-d40a9b24-e02f-45f7-bea4-d4d434fd1dbf.png)
 
@@ -50,13 +50,15 @@ Specific tour details page:
 
 
 
-User information page:
+###### User information page:
 ![image](https://user-images.githubusercontent.com/82920386/159171095-c73eb925-55ee-40cd-96d4-059fdff4a04f.png)
 
 
 
-Payment page:
+###### Payment page:
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 ### Built With
 
 What I used to build this app:
