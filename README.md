@@ -16,7 +16,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 1. About The Project
 
 ![image](https://user-images.githubusercontent.com/82920386/159165532-23b47b47-8f64-4ca9-82d3-27d134ff0660.png)
 
@@ -27,7 +27,7 @@ Some basic features included in this app for customer: booking tour, payment, mo
 Some security methods for webapp development is also implemented in this app to prevent some types of attack such as SQL Injection Attack, Cross-Site Scripting (XSS), Denial of Service (DoS), parameter polution, brute force attack, compromised database.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## UX-UI
+## 2. UX-UI
 ###### Homepage: Red version of natour homepage is deployed at this [link](https://github.com/narutosimaha/natour-homepage.git).
 
 ###### Login form:
@@ -59,7 +59,7 @@ Some security methods for webapp development is also implemented in this app to 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-### Built With
+### 3. Built With
 
 What I used to build this app:
 * HTML/CSS, Vanila Javascript.
@@ -83,6 +83,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Deploy
+## 4. Deploy
 Link: Incompleted.
 
