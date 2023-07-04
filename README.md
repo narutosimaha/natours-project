@@ -22,9 +22,9 @@
 
 This is an application for a tour operator business. 
 
-Some basic features included in this app for customer: booking tour, payment, modifying individual information, displaying specific tour' stopovers which is in proximity to user address.
+Some basic features included in this app for the customer are: booking a tour, payment, modifying individual information, and displaying specific tour' stopovers that are in proximity to user's address.
 
-Some security methods for webapp development is also implemented in this app to prevent some types of attack such as SQL Injection Attack, Cross-Site Scripting (XSS), Denial of Service (DoS), parameter polution, brute force attack, compromised database.
+Some security methods for web app development is also implemented in this app to prevent some types of attack such as SQL Injection Attack, Cross-Site Scripting (XSS), Denial of Service (DoS), parameter pollution, brute force attack, and compromised database.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 2. UX-UI
@@ -59,7 +59,7 @@ Some security methods for webapp development is also implemented in this app to 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-### 3. Built With
+## 3. Built With
 
 What I used to build this app:
 * HTML/CSS, Vanila Javascript.
